@@ -5,4 +5,4 @@ Bem-vindo! Este repositório reúne os exercícios, trabalhos e práticas desenv
 
 
 ---
-📫 **Contato:** [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/lucasplopess/))
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/lucasplopess/)
